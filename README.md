@@ -6,27 +6,29 @@
 
 ### Input Screen:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73114058/251746968-79882e58-e100-402f-8343-af4f99509d1d.png" />
+  <img src="https://github.com/pelinvarol/SimpleWebCalculator/assets/73114058/383988de-bc8e-4747-b1b0-295240f010a4" />
 </p> 
 
 ### Result Screen: 
 
 For addition:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73114058/251748519-d7c3d30d-c9d4-4696-a14b-7bfc0dd260b8.png" />
+  <img src="https://github.com/pelinvarol/SimpleWebCalculator/assets/73114058/516a0ac3-c4df-491e-b8c7-eb5c4952617d" />
 </p> 
+
 For subtraction:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73114058/251748638-1cadd09f-ea0d-40de-88ce-af51e3dee58e.png" />
+  <img src="https://github.com/pelinvarol/SimpleWebCalculator/assets/73114058/966d5c44-42c0-42af-a30c-e12296655a9f" />
 </p> 
 
 For multiplication:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73114058/251748743-2561d08c-5f00-4dc5-82dd-2881a6693929.png" />
+  <img src="https://github.com/pelinvarol/SimpleWebCalculator/assets/73114058/9c951a57-7d4f-4d47-818b-14c24f4e5c92" />
 </p> 
+
 For division:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73114058/251748781-a2e3938d-39fc-490e-b417-f24788943a8e.png" />
+  <img src="https://github.com/pelinvarol/SimpleWebCalculator/assets/73114058/1268586e-b5a1-47f5-815a-02305e2aa262" />
 </p> 
 
 
